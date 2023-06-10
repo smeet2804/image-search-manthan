@@ -1,0 +1,6 @@
+__pycache__/
+.env/
+models/
+data/
+vecdata/
+Downloads/
